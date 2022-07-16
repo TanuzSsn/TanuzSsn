@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Tanuz
-- 👀 I’m interested in DataScience
+- 👀 I’m interested in DataScience especially in Data Analysis
 - 🌱 I’m currently learning Data Science in platzi
 - 📫 How to reach me tanuzssn@outlook.com
+- 🔭 I’m currently working on personal proyects to learn
+- 🤔 I’m looking for help with how to be a professional DataScientist
