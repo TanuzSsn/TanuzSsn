@@ -29,5 +29,5 @@ criminal e informes en el C4 de Toluca.
 
 ### Contacto
 
-- LinkedIn: `[tu URL]`
-- Correo: `[tu correo profesional]`
+- LinkedIn: https://www.linkedin.com/in/antosesin/
+- Correo: tanuzssn@outlook.com
